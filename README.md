@@ -1,22 +1,20 @@
 # Python Basics Projects
 
-A collection of beginner-friendly Python projects to strengthen programming fundamentals and problem-solving skills.  
-These projects cover logic building, control flow, functions, and working with Python's built-in libraries.
+A collection of beginner-friendly Python projects that build core programming skills—logic, loops, conditionals, randomization, and basic libraries. This is part of my journey toward **Data Science** and **Machine Learning**.
 
-## 🚀 Projects Included
-- **ATM Machine** – Simulates balance check, deposit, and withdrawal operations.  
-- **Number Guessing Game** – A fun guessing game using random numbers.  
-- **Password Generator** – Generates strong random passwords using Python's `string` and `random` modules.  
-- *(More projects coming soon)*  
+##  Projects Included
+- **ATM Machine** – Simulates PIN login, balance check, deposit, withdrawal.
+- **Number Guessing Game** – Guess a random number with feedback hints.
+- **Password Generator** – Create random passwords using letters, digits, and symbols.
+- *(More projects coming soon)*
 
-## 🛠 Skills Demonstrated
-- Python basics (variables, loops, conditionals)
-- Functions and modular code
-- Random number generation
-- String manipulation
-- Input handling and validation
+##  Skills Demonstrated
+- Python fundamentals: variables, loops, conditionals
+- Modular code and input validation
+- Random number generation and string manipulation
 
-## 📂 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Python-Basics-Projects.git
+##  How to Run
+
+```bash
+git clone https://github.com/rishavkumarseth2507/Python-Basics.git
+cd Python-Basics
